@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/arm64/closure_bridge_arm64.asm
+
+/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/arm64/closure_trampoline_arm64.asm
+
+/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/x64/closure_bridge_x64.asm
+
+/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/x64/closure_trampoline_x64.asm
+

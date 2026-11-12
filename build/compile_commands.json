@@ -1,0 +1,512 @@
+[
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++ -DBUILD_WITH_TRAMPOLINE_ASM -DDOBBY_LOGGING_DISABLE -I/Users/xhuet/delivery/eip/jet-live/libs/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/include -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external/logging -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver  -MD  -falign-functions=16  -g -arch arm64 -Wno-attributes -o CMakeFiles/lib_dobby.dir/libs/dobby/source/core/assembler/assembler-arm.cc.o -c /Users/xhuet/delivery/eip/jet-live/libs/dobby/source/core/assembler/assembler-arm.cc",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/core/assembler/assembler-arm.cc",
+  "output": "CMakeFiles/lib_dobby.dir/libs/dobby/source/core/assembler/assembler-arm.cc.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++ -DBUILD_WITH_TRAMPOLINE_ASM -DDOBBY_LOGGING_DISABLE -I/Users/xhuet/delivery/eip/jet-live/libs/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/include -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external/logging -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver  -MD  -falign-functions=16  -g -arch arm64 -Wno-attributes -o CMakeFiles/lib_dobby.dir/libs/dobby/source/core/assembler/assembler-ia32.cc.o -c /Users/xhuet/delivery/eip/jet-live/libs/dobby/source/core/assembler/assembler-ia32.cc",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/core/assembler/assembler-ia32.cc",
+  "output": "CMakeFiles/lib_dobby.dir/libs/dobby/source/core/assembler/assembler-ia32.cc.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++ -DBUILD_WITH_TRAMPOLINE_ASM -DDOBBY_LOGGING_DISABLE -I/Users/xhuet/delivery/eip/jet-live/libs/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/include -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external/logging -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver  -MD  -falign-functions=16  -g -arch arm64 -Wno-attributes -o CMakeFiles/lib_dobby.dir/libs/dobby/source/core/assembler/assembler-x64.cc.o -c /Users/xhuet/delivery/eip/jet-live/libs/dobby/source/core/assembler/assembler-x64.cc",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/core/assembler/assembler-x64.cc",
+  "output": "CMakeFiles/lib_dobby.dir/libs/dobby/source/core/assembler/assembler-x64.cc.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++ -DBUILD_WITH_TRAMPOLINE_ASM -DDOBBY_LOGGING_DISABLE -I/Users/xhuet/delivery/eip/jet-live/libs/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/include -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external/logging -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver  -MD  -falign-functions=16  -g -arch arm64 -Wno-attributes -o CMakeFiles/lib_dobby.dir/libs/dobby/source/core/codegen/codegen-arm.cc.o -c /Users/xhuet/delivery/eip/jet-live/libs/dobby/source/core/codegen/codegen-arm.cc",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/core/codegen/codegen-arm.cc",
+  "output": "CMakeFiles/lib_dobby.dir/libs/dobby/source/core/codegen/codegen-arm.cc.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++ -DBUILD_WITH_TRAMPOLINE_ASM -DDOBBY_LOGGING_DISABLE -I/Users/xhuet/delivery/eip/jet-live/libs/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/include -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external/logging -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver  -MD  -falign-functions=16  -g -arch arm64 -Wno-attributes -o CMakeFiles/lib_dobby.dir/libs/dobby/source/core/codegen/codegen-ia32.cc.o -c /Users/xhuet/delivery/eip/jet-live/libs/dobby/source/core/codegen/codegen-ia32.cc",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/core/codegen/codegen-ia32.cc",
+  "output": "CMakeFiles/lib_dobby.dir/libs/dobby/source/core/codegen/codegen-ia32.cc.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++ -DBUILD_WITH_TRAMPOLINE_ASM -DDOBBY_LOGGING_DISABLE -I/Users/xhuet/delivery/eip/jet-live/libs/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/include -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external/logging -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver  -MD  -falign-functions=16  -g -arch arm64 -Wno-attributes -o CMakeFiles/lib_dobby.dir/libs/dobby/source/InstructionRelocation/arm/InstructionRelocationARM.cc.o -c /Users/xhuet/delivery/eip/jet-live/libs/dobby/source/InstructionRelocation/arm/InstructionRelocationARM.cc",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/InstructionRelocation/arm/InstructionRelocationARM.cc",
+  "output": "CMakeFiles/lib_dobby.dir/libs/dobby/source/InstructionRelocation/arm/InstructionRelocationARM.cc.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++ -DBUILD_WITH_TRAMPOLINE_ASM -DDOBBY_LOGGING_DISABLE -I/Users/xhuet/delivery/eip/jet-live/libs/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/include -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external/logging -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver  -MD  -falign-functions=16  -g -arch arm64 -Wno-attributes -o CMakeFiles/lib_dobby.dir/libs/dobby/source/InstructionRelocation/arm64/InstructionRelocationARM64.cc.o -c /Users/xhuet/delivery/eip/jet-live/libs/dobby/source/InstructionRelocation/arm64/InstructionRelocationARM64.cc",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/InstructionRelocation/arm64/InstructionRelocationARM64.cc",
+  "output": "CMakeFiles/lib_dobby.dir/libs/dobby/source/InstructionRelocation/arm64/InstructionRelocationARM64.cc.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++ -DBUILD_WITH_TRAMPOLINE_ASM -DDOBBY_LOGGING_DISABLE -I/Users/xhuet/delivery/eip/jet-live/libs/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/include -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external/logging -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver  -MD  -falign-functions=16  -g -arch arm64 -Wno-attributes -o CMakeFiles/lib_dobby.dir/libs/dobby/source/InstructionRelocation/x86/InstructionRelocationX86.cc.o -c /Users/xhuet/delivery/eip/jet-live/libs/dobby/source/InstructionRelocation/x86/InstructionRelocationX86.cc",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/InstructionRelocation/x86/InstructionRelocationX86.cc",
+  "output": "CMakeFiles/lib_dobby.dir/libs/dobby/source/InstructionRelocation/x86/InstructionRelocationX86.cc.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++ -DBUILD_WITH_TRAMPOLINE_ASM -DDOBBY_LOGGING_DISABLE -I/Users/xhuet/delivery/eip/jet-live/libs/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/include -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external/logging -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver  -MD  -falign-functions=16  -g -arch arm64 -Wno-attributes -o CMakeFiles/lib_dobby.dir/libs/dobby/source/InstructionRelocation/x86/InstructionRelocationX86Shared.cc.o -c /Users/xhuet/delivery/eip/jet-live/libs/dobby/source/InstructionRelocation/x86/InstructionRelocationX86Shared.cc",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/InstructionRelocation/x86/InstructionRelocationX86Shared.cc",
+  "output": "CMakeFiles/lib_dobby.dir/libs/dobby/source/InstructionRelocation/x86/InstructionRelocationX86Shared.cc.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++ -DBUILD_WITH_TRAMPOLINE_ASM -DDOBBY_LOGGING_DISABLE -I/Users/xhuet/delivery/eip/jet-live/libs/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/include -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external/logging -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver  -MD  -falign-functions=16  -g -arch arm64 -Wno-attributes -o CMakeFiles/lib_dobby.dir/libs/dobby/source/InstructionRelocation/x64/InstructionRelocationX64.cc.o -c /Users/xhuet/delivery/eip/jet-live/libs/dobby/source/InstructionRelocation/x64/InstructionRelocationX64.cc",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/InstructionRelocation/x64/InstructionRelocationX64.cc",
+  "output": "CMakeFiles/lib_dobby.dir/libs/dobby/source/InstructionRelocation/x64/InstructionRelocationX64.cc.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/cc -DBUILD_WITH_TRAMPOLINE_ASM -DDOBBY_LOGGING_DISABLE -I/Users/xhuet/delivery/eip/jet-live/libs/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/include -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external/logging -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver  -MD  -falign-functions=16  -g -arch arm64 -Wno-attributes -o CMakeFiles/lib_dobby.dir/libs/dobby/source/InstructionRelocation/x86/x86_insn_decode/x86_insn_decode.c.o -c /Users/xhuet/delivery/eip/jet-live/libs/dobby/source/InstructionRelocation/x86/x86_insn_decode/x86_insn_decode.c",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/InstructionRelocation/x86/x86_insn_decode/x86_insn_decode.c",
+  "output": "CMakeFiles/lib_dobby.dir/libs/dobby/source/InstructionRelocation/x86/x86_insn_decode/x86_insn_decode.c.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++ -DBUILD_WITH_TRAMPOLINE_ASM -DDOBBY_LOGGING_DISABLE -I/Users/xhuet/delivery/eip/jet-live/libs/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/include -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external/logging -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver  -MD  -falign-functions=16  -g -arch arm64 -Wno-attributes -o CMakeFiles/lib_dobby.dir/libs/dobby/source/InterceptRouting/InstrumentRouting/instrument_routing_handler.cpp.o -c /Users/xhuet/delivery/eip/jet-live/libs/dobby/source/InterceptRouting/InstrumentRouting/instrument_routing_handler.cpp",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/InterceptRouting/InstrumentRouting/instrument_routing_handler.cpp",
+  "output": "CMakeFiles/lib_dobby.dir/libs/dobby/source/InterceptRouting/InstrumentRouting/instrument_routing_handler.cpp.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++ -DBUILD_WITH_TRAMPOLINE_ASM -DDOBBY_LOGGING_DISABLE -I/Users/xhuet/delivery/eip/jet-live/libs/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/include -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external/logging -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver  -MD  -falign-functions=16  -g -arch arm64 -Wno-attributes -o CMakeFiles/lib_dobby.dir/libs/dobby/source/TrampolineBridge/Trampoline/trampoline_arm.cc.o -c /Users/xhuet/delivery/eip/jet-live/libs/dobby/source/TrampolineBridge/Trampoline/trampoline_arm.cc",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/TrampolineBridge/Trampoline/trampoline_arm.cc",
+  "output": "CMakeFiles/lib_dobby.dir/libs/dobby/source/TrampolineBridge/Trampoline/trampoline_arm.cc.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++ -DBUILD_WITH_TRAMPOLINE_ASM -DDOBBY_LOGGING_DISABLE -I/Users/xhuet/delivery/eip/jet-live/libs/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/include -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external/logging -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver  -MD  -falign-functions=16  -g -arch arm64 -Wno-attributes -o CMakeFiles/lib_dobby.dir/libs/dobby/source/TrampolineBridge/Trampoline/trampoline_arm64.cc.o -c /Users/xhuet/delivery/eip/jet-live/libs/dobby/source/TrampolineBridge/Trampoline/trampoline_arm64.cc",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/TrampolineBridge/Trampoline/trampoline_arm64.cc",
+  "output": "CMakeFiles/lib_dobby.dir/libs/dobby/source/TrampolineBridge/Trampoline/trampoline_arm64.cc.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++ -DBUILD_WITH_TRAMPOLINE_ASM -DDOBBY_LOGGING_DISABLE -I/Users/xhuet/delivery/eip/jet-live/libs/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/include -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external/logging -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver  -MD  -falign-functions=16  -g -arch arm64 -Wno-attributes -o CMakeFiles/lib_dobby.dir/libs/dobby/source/TrampolineBridge/Trampoline/trampoline_x86.cc.o -c /Users/xhuet/delivery/eip/jet-live/libs/dobby/source/TrampolineBridge/Trampoline/trampoline_x86.cc",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/TrampolineBridge/Trampoline/trampoline_x86.cc",
+  "output": "CMakeFiles/lib_dobby.dir/libs/dobby/source/TrampolineBridge/Trampoline/trampoline_x86.cc.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++ -DBUILD_WITH_TRAMPOLINE_ASM -DDOBBY_LOGGING_DISABLE -I/Users/xhuet/delivery/eip/jet-live/libs/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/include -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external/logging -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver  -MD  -falign-functions=16  -g -arch arm64 -Wno-attributes -o CMakeFiles/lib_dobby.dir/libs/dobby/source/TrampolineBridge/Trampoline/trampoline_x64.cc.o -c /Users/xhuet/delivery/eip/jet-live/libs/dobby/source/TrampolineBridge/Trampoline/trampoline_x64.cc",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/TrampolineBridge/Trampoline/trampoline_x64.cc",
+  "output": "CMakeFiles/lib_dobby.dir/libs/dobby/source/TrampolineBridge/Trampoline/trampoline_x64.cc.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++ -DBUILD_WITH_TRAMPOLINE_ASM -DDOBBY_LOGGING_DISABLE -I/Users/xhuet/delivery/eip/jet-live/libs/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/include -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external/logging -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver  -MD  -falign-functions=16  -g -arch arm64 -Wno-attributes -o CMakeFiles/lib_dobby.dir/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/arm/helper_arm.cc.o -c /Users/xhuet/delivery/eip/jet-live/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/arm/helper_arm.cc",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/arm/helper_arm.cc",
+  "output": "CMakeFiles/lib_dobby.dir/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/arm/helper_arm.cc.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++ -DBUILD_WITH_TRAMPOLINE_ASM -DDOBBY_LOGGING_DISABLE -I/Users/xhuet/delivery/eip/jet-live/libs/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/include -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external/logging -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver  -MD  -falign-functions=16  -g -arch arm64 -Wno-attributes -o CMakeFiles/lib_dobby.dir/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/arm/closure_bridge_arm.cc.o -c /Users/xhuet/delivery/eip/jet-live/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/arm/closure_bridge_arm.cc",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/arm/closure_bridge_arm.cc",
+  "output": "CMakeFiles/lib_dobby.dir/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/arm/closure_bridge_arm.cc.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++ -DBUILD_WITH_TRAMPOLINE_ASM -DDOBBY_LOGGING_DISABLE -I/Users/xhuet/delivery/eip/jet-live/libs/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/include -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external/logging -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver  -MD  -falign-functions=16  -g -arch arm64 -Wno-attributes -o CMakeFiles/lib_dobby.dir/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/arm/ClosureTrampolineARM.cc.o -c /Users/xhuet/delivery/eip/jet-live/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/arm/ClosureTrampolineARM.cc",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/arm/ClosureTrampolineARM.cc",
+  "output": "CMakeFiles/lib_dobby.dir/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/arm/ClosureTrampolineARM.cc.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++ -DBUILD_WITH_TRAMPOLINE_ASM -DDOBBY_LOGGING_DISABLE -I/Users/xhuet/delivery/eip/jet-live/libs/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/include -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external/logging -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver  -MD  -falign-functions=16  -g -arch arm64 -Wno-attributes -o CMakeFiles/lib_dobby.dir/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/arm64/helper_arm64.cc.o -c /Users/xhuet/delivery/eip/jet-live/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/arm64/helper_arm64.cc",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/arm64/helper_arm64.cc",
+  "output": "CMakeFiles/lib_dobby.dir/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/arm64/helper_arm64.cc.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++ -DBUILD_WITH_TRAMPOLINE_ASM -DDOBBY_LOGGING_DISABLE -I/Users/xhuet/delivery/eip/jet-live/libs/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/include -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external/logging -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver  -MD  -falign-functions=16  -g -arch arm64 -Wno-attributes -o CMakeFiles/lib_dobby.dir/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/arm64/closure_bridge_arm64.cc.o -c /Users/xhuet/delivery/eip/jet-live/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/arm64/closure_bridge_arm64.cc",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/arm64/closure_bridge_arm64.cc",
+  "output": "CMakeFiles/lib_dobby.dir/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/arm64/closure_bridge_arm64.cc.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++ -DBUILD_WITH_TRAMPOLINE_ASM -DDOBBY_LOGGING_DISABLE -I/Users/xhuet/delivery/eip/jet-live/libs/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/include -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external/logging -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver  -MD  -falign-functions=16  -g -arch arm64 -Wno-attributes -o CMakeFiles/lib_dobby.dir/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/arm64/ClosureTrampolineARM64.cc.o -c /Users/xhuet/delivery/eip/jet-live/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/arm64/ClosureTrampolineARM64.cc",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/arm64/ClosureTrampolineARM64.cc",
+  "output": "CMakeFiles/lib_dobby.dir/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/arm64/ClosureTrampolineARM64.cc.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/cc -DBUILD_WITH_TRAMPOLINE_ASM -DDOBBY_LOGGING_DISABLE -I/Users/xhuet/delivery/eip/jet-live/libs/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/include -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external/logging -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver  -x assembler-with-cpp -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -Wno-attributes -o CMakeFiles/lib_dobby.dir/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/arm64/closure_bridge_arm64.asm.o -c /Users/xhuet/delivery/eip/jet-live/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/arm64/closure_bridge_arm64.asm",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/arm64/closure_bridge_arm64.asm",
+  "output": "CMakeFiles/lib_dobby.dir/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/arm64/closure_bridge_arm64.asm.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/cc -DBUILD_WITH_TRAMPOLINE_ASM -DDOBBY_LOGGING_DISABLE -I/Users/xhuet/delivery/eip/jet-live/libs/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/include -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external/logging -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver  -x assembler-with-cpp -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -Wno-attributes -o CMakeFiles/lib_dobby.dir/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/arm64/closure_trampoline_arm64.asm.o -c /Users/xhuet/delivery/eip/jet-live/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/arm64/closure_trampoline_arm64.asm",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/arm64/closure_trampoline_arm64.asm",
+  "output": "CMakeFiles/lib_dobby.dir/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/arm64/closure_trampoline_arm64.asm.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++ -DBUILD_WITH_TRAMPOLINE_ASM -DDOBBY_LOGGING_DISABLE -I/Users/xhuet/delivery/eip/jet-live/libs/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/include -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external/logging -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver  -MD  -falign-functions=16  -g -arch arm64 -Wno-attributes -o CMakeFiles/lib_dobby.dir/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/x86/helper_x86.cc.o -c /Users/xhuet/delivery/eip/jet-live/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/x86/helper_x86.cc",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/x86/helper_x86.cc",
+  "output": "CMakeFiles/lib_dobby.dir/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/x86/helper_x86.cc.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++ -DBUILD_WITH_TRAMPOLINE_ASM -DDOBBY_LOGGING_DISABLE -I/Users/xhuet/delivery/eip/jet-live/libs/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/include -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external/logging -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver  -MD  -falign-functions=16  -g -arch arm64 -Wno-attributes -o CMakeFiles/lib_dobby.dir/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/x86/closure_bridge_x86.cc.o -c /Users/xhuet/delivery/eip/jet-live/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/x86/closure_bridge_x86.cc",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/x86/closure_bridge_x86.cc",
+  "output": "CMakeFiles/lib_dobby.dir/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/x86/closure_bridge_x86.cc.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++ -DBUILD_WITH_TRAMPOLINE_ASM -DDOBBY_LOGGING_DISABLE -I/Users/xhuet/delivery/eip/jet-live/libs/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/include -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external/logging -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver  -MD  -falign-functions=16  -g -arch arm64 -Wno-attributes -o CMakeFiles/lib_dobby.dir/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/x86/ClosureTrampolineX86.cc.o -c /Users/xhuet/delivery/eip/jet-live/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/x86/ClosureTrampolineX86.cc",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/x86/ClosureTrampolineX86.cc",
+  "output": "CMakeFiles/lib_dobby.dir/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/x86/ClosureTrampolineX86.cc.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++ -DBUILD_WITH_TRAMPOLINE_ASM -DDOBBY_LOGGING_DISABLE -I/Users/xhuet/delivery/eip/jet-live/libs/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/include -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external/logging -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver  -MD  -falign-functions=16  -g -arch arm64 -Wno-attributes -o CMakeFiles/lib_dobby.dir/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/x64/helper_x64.cc.o -c /Users/xhuet/delivery/eip/jet-live/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/x64/helper_x64.cc",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/x64/helper_x64.cc",
+  "output": "CMakeFiles/lib_dobby.dir/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/x64/helper_x64.cc.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++ -DBUILD_WITH_TRAMPOLINE_ASM -DDOBBY_LOGGING_DISABLE -I/Users/xhuet/delivery/eip/jet-live/libs/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/include -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external/logging -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver  -MD  -falign-functions=16  -g -arch arm64 -Wno-attributes -o CMakeFiles/lib_dobby.dir/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/x64/closure_bridge_x64.cc.o -c /Users/xhuet/delivery/eip/jet-live/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/x64/closure_bridge_x64.cc",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/x64/closure_bridge_x64.cc",
+  "output": "CMakeFiles/lib_dobby.dir/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/x64/closure_bridge_x64.cc.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++ -DBUILD_WITH_TRAMPOLINE_ASM -DDOBBY_LOGGING_DISABLE -I/Users/xhuet/delivery/eip/jet-live/libs/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/include -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external/logging -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver  -MD  -falign-functions=16  -g -arch arm64 -Wno-attributes -o CMakeFiles/lib_dobby.dir/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/x64/ClosureTrampolineX64.cc.o -c /Users/xhuet/delivery/eip/jet-live/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/x64/ClosureTrampolineX64.cc",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/x64/ClosureTrampolineX64.cc",
+  "output": "CMakeFiles/lib_dobby.dir/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/x64/ClosureTrampolineX64.cc.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/cc -DBUILD_WITH_TRAMPOLINE_ASM -DDOBBY_LOGGING_DISABLE -I/Users/xhuet/delivery/eip/jet-live/libs/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/include -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external/logging -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver  -x assembler-with-cpp -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -Wno-attributes -o CMakeFiles/lib_dobby.dir/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/x64/closure_bridge_x64.asm.o -c /Users/xhuet/delivery/eip/jet-live/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/x64/closure_bridge_x64.asm",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/x64/closure_bridge_x64.asm",
+  "output": "CMakeFiles/lib_dobby.dir/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/x64/closure_bridge_x64.asm.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/cc -DBUILD_WITH_TRAMPOLINE_ASM -DDOBBY_LOGGING_DISABLE -I/Users/xhuet/delivery/eip/jet-live/libs/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/include -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external/logging -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver  -x assembler-with-cpp -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -Wno-attributes -o CMakeFiles/lib_dobby.dir/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/x64/closure_trampoline_x64.asm.o -c /Users/xhuet/delivery/eip/jet-live/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/x64/closure_trampoline_x64.asm",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/x64/closure_trampoline_x64.asm",
+  "output": "CMakeFiles/lib_dobby.dir/libs/dobby/source/TrampolineBridge/ClosureTrampolineBridge/x64/closure_trampoline_x64.asm.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++ -DBUILD_WITH_TRAMPOLINE_ASM -DDOBBY_LOGGING_DISABLE -I/Users/xhuet/delivery/eip/jet-live/libs/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/include -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external/logging -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver  -MD  -falign-functions=16  -g -arch arm64 -Wno-attributes -o CMakeFiles/lib_dobby.dir/libs/dobby/source/dobby.cpp.o -c /Users/xhuet/delivery/eip/jet-live/libs/dobby/source/dobby.cpp",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/dobby.cpp",
+  "output": "CMakeFiles/lib_dobby.dir/libs/dobby/source/dobby.cpp.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++ -DBUILD_WITH_TRAMPOLINE_ASM -DDOBBY_LOGGING_DISABLE -I/Users/xhuet/delivery/eip/jet-live/libs/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/include -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external/logging -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver  -MD  -falign-functions=16  -g -arch arm64 -Wno-attributes -o CMakeFiles/lib_dobby.dir/libs/dobby/source/InterceptRouting/NearBranchTrampoline/near_trampoline_arm64.cc.o -c /Users/xhuet/delivery/eip/jet-live/libs/dobby/source/InterceptRouting/NearBranchTrampoline/near_trampoline_arm64.cc",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/InterceptRouting/NearBranchTrampoline/near_trampoline_arm64.cc",
+  "output": "CMakeFiles/lib_dobby.dir/libs/dobby/source/InterceptRouting/NearBranchTrampoline/near_trampoline_arm64.cc.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++ -DBUILD_WITH_TRAMPOLINE_ASM -DDOBBY_LOGGING_DISABLE -I/Users/xhuet/delivery/eip/jet-live/libs/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/include -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external/logging -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver  -MD  -falign-functions=16  -g -arch arm64 -Wno-attributes -o CMakeFiles/lib_dobby.dir/libs/dobby/source/Backend/UserMode/UnifiedInterface/platform-posix.cc.o -c /Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode/UnifiedInterface/platform-posix.cc",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode/UnifiedInterface/platform-posix.cc",
+  "output": "CMakeFiles/lib_dobby.dir/libs/dobby/source/Backend/UserMode/UnifiedInterface/platform-posix.cc.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++ -DBUILD_WITH_TRAMPOLINE_ASM -DDOBBY_LOGGING_DISABLE -I/Users/xhuet/delivery/eip/jet-live/libs/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/include -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external/logging -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver  -MD  -falign-functions=16  -g -arch arm64 -Wno-attributes -o CMakeFiles/lib_dobby.dir/libs/dobby/source/Backend/UserMode/PlatformUtil/Darwin/ProcessRuntime.cc.o -c /Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode/PlatformUtil/Darwin/ProcessRuntime.cc",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode/PlatformUtil/Darwin/ProcessRuntime.cc",
+  "output": "CMakeFiles/lib_dobby.dir/libs/dobby/source/Backend/UserMode/PlatformUtil/Darwin/ProcessRuntime.cc.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++ -DBUILD_WITH_TRAMPOLINE_ASM -DDOBBY_LOGGING_DISABLE -I/Users/xhuet/delivery/eip/jet-live/libs/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/include -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external/logging -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver  -MD  -falign-functions=16  -g -arch arm64 -Wno-attributes -o CMakeFiles/lib_dobby.dir/libs/dobby/source/Backend/UserMode/ExecMemory/code-patch-tool-darwin.cc.o -c /Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode/ExecMemory/code-patch-tool-darwin.cc",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode/ExecMemory/code-patch-tool-darwin.cc",
+  "output": "CMakeFiles/lib_dobby.dir/libs/dobby/source/Backend/UserMode/ExecMemory/code-patch-tool-darwin.cc.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/cc -DBUILD_WITH_TRAMPOLINE_ASM -DDOBBY_LOGGING_DISABLE -I/Users/xhuet/delivery/eip/jet-live/libs/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/include -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external/logging -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver  -MD  -falign-functions=16  -g -arch arm64 -Wno-attributes -o CMakeFiles/lib_dobby.dir/libs/dobby/source/Backend/UserMode/ExecMemory/clear-cache-tool-all.c.o -c /Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode/ExecMemory/clear-cache-tool-all.c",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode/ExecMemory/clear-cache-tool-all.c",
+  "output": "CMakeFiles/lib_dobby.dir/libs/dobby/source/Backend/UserMode/ExecMemory/clear-cache-tool-all.c.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++ -DBUILD_WITH_TRAMPOLINE_ASM -DDOBBY_LOGGING_DISABLE -I/Users/xhuet/delivery/eip/jet-live/libs/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/include -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external/logging -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver  -MD  -falign-functions=16  -g -arch arm64 -Wno-attributes -o CMakeFiles/lib_dobby.dir/libs/dobby/builtin-plugin/SymbolResolver/macho/macho_ctx.cc.o -c /Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver/macho/macho_ctx.cc",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver/macho/macho_ctx.cc",
+  "output": "CMakeFiles/lib_dobby.dir/libs/dobby/builtin-plugin/SymbolResolver/macho/macho_ctx.cc.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++ -DBUILD_WITH_TRAMPOLINE_ASM -DDOBBY_LOGGING_DISABLE -I/Users/xhuet/delivery/eip/jet-live/libs/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/include -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external/logging -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver  -MD  -falign-functions=16  -g -arch arm64 -Wno-attributes -o CMakeFiles/lib_dobby.dir/libs/dobby/builtin-plugin/SymbolResolver/macho/shared_cache_ctx.cpp.o -c /Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver/macho/shared_cache_ctx.cpp",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver/macho/shared_cache_ctx.cpp",
+  "output": "CMakeFiles/lib_dobby.dir/libs/dobby/builtin-plugin/SymbolResolver/macho/shared_cache_ctx.cpp.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++ -DBUILD_WITH_TRAMPOLINE_ASM -DDOBBY_LOGGING_DISABLE -I/Users/xhuet/delivery/eip/jet-live/libs/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/include -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external/logging -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver  -MD  -falign-functions=16  -g -arch arm64 -Wno-attributes -o CMakeFiles/lib_dobby.dir/libs/dobby/builtin-plugin/SymbolResolver/macho/dobby_symbol_resolver.cc.o -c /Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver/macho/dobby_symbol_resolver.cc",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver/macho/dobby_symbol_resolver.cc",
+  "output": "CMakeFiles/lib_dobby.dir/libs/dobby/builtin-plugin/SymbolResolver/macho/dobby_symbol_resolver.cc.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++ -DBUILD_WITH_TRAMPOLINE_ASM -DDOBBY_LOGGING_DISABLE -I/Users/xhuet/delivery/eip/jet-live/libs/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/include -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external/logging -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver  -MD  -falign-functions=16  -g -arch arm64 -Wno-attributes -o CMakeFiles/lib_dobby.dir/libs/dobby/builtin-plugin/SymbolResolver/macho/macho_file_symbol_resolver.cpp.o -c /Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver/macho/macho_file_symbol_resolver.cpp",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver/macho/macho_file_symbol_resolver.cpp",
+  "output": "CMakeFiles/lib_dobby.dir/libs/dobby/builtin-plugin/SymbolResolver/macho/macho_file_symbol_resolver.cpp.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/cc  -I/Users/xhuet/delivery/eip/jet-live/libs/whereami/src  -MD  -falign-functions=16  -g -arch arm64 -o CMakeFiles/lib_whereami.dir/libs/whereami/src/whereami.c.o -c /Users/xhuet/delivery/eip/jet-live/libs/whereami/src/whereami.c",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/whereami/src/whereami.c",
+  "output": "CMakeFiles/lib_whereami.dir/libs/whereami/src/whereami.c.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++  -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/include -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/src  -MD  -falign-functions=16  -g -arch arm64 -o CMakeFiles/lib_efsw.dir/libs/efsw/src/efsw/Debug.cpp.o -c /Users/xhuet/delivery/eip/jet-live/libs/efsw/src/efsw/Debug.cpp",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/efsw/src/efsw/Debug.cpp",
+  "output": "CMakeFiles/lib_efsw.dir/libs/efsw/src/efsw/Debug.cpp.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++  -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/include -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/src  -MD  -falign-functions=16  -g -arch arm64 -o CMakeFiles/lib_efsw.dir/libs/efsw/src/efsw/DirectorySnapshot.cpp.o -c /Users/xhuet/delivery/eip/jet-live/libs/efsw/src/efsw/DirectorySnapshot.cpp",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/efsw/src/efsw/DirectorySnapshot.cpp",
+  "output": "CMakeFiles/lib_efsw.dir/libs/efsw/src/efsw/DirectorySnapshot.cpp.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++  -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/include -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/src  -MD  -falign-functions=16  -g -arch arm64 -o CMakeFiles/lib_efsw.dir/libs/efsw/src/efsw/DirectorySnapshotDiff.cpp.o -c /Users/xhuet/delivery/eip/jet-live/libs/efsw/src/efsw/DirectorySnapshotDiff.cpp",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/efsw/src/efsw/DirectorySnapshotDiff.cpp",
+  "output": "CMakeFiles/lib_efsw.dir/libs/efsw/src/efsw/DirectorySnapshotDiff.cpp.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++  -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/include -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/src  -MD  -falign-functions=16  -g -arch arm64 -o CMakeFiles/lib_efsw.dir/libs/efsw/src/efsw/DirWatcherGeneric.cpp.o -c /Users/xhuet/delivery/eip/jet-live/libs/efsw/src/efsw/DirWatcherGeneric.cpp",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/efsw/src/efsw/DirWatcherGeneric.cpp",
+  "output": "CMakeFiles/lib_efsw.dir/libs/efsw/src/efsw/DirWatcherGeneric.cpp.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++  -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/include -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/src  -MD  -falign-functions=16  -g -arch arm64 -o CMakeFiles/lib_efsw.dir/libs/efsw/src/efsw/FileInfo.cpp.o -c /Users/xhuet/delivery/eip/jet-live/libs/efsw/src/efsw/FileInfo.cpp",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/efsw/src/efsw/FileInfo.cpp",
+  "output": "CMakeFiles/lib_efsw.dir/libs/efsw/src/efsw/FileInfo.cpp.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++  -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/include -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/src  -MD  -falign-functions=16  -g -arch arm64 -o CMakeFiles/lib_efsw.dir/libs/efsw/src/efsw/FileSystem.cpp.o -c /Users/xhuet/delivery/eip/jet-live/libs/efsw/src/efsw/FileSystem.cpp",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/efsw/src/efsw/FileSystem.cpp",
+  "output": "CMakeFiles/lib_efsw.dir/libs/efsw/src/efsw/FileSystem.cpp.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++  -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/include -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/src  -MD  -falign-functions=16  -g -arch arm64 -o CMakeFiles/lib_efsw.dir/libs/efsw/src/efsw/FileWatcher.cpp.o -c /Users/xhuet/delivery/eip/jet-live/libs/efsw/src/efsw/FileWatcher.cpp",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/efsw/src/efsw/FileWatcher.cpp",
+  "output": "CMakeFiles/lib_efsw.dir/libs/efsw/src/efsw/FileWatcher.cpp.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++  -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/include -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/src  -MD  -falign-functions=16  -g -arch arm64 -o CMakeFiles/lib_efsw.dir/libs/efsw/src/efsw/FileWatcherCWrapper.cpp.o -c /Users/xhuet/delivery/eip/jet-live/libs/efsw/src/efsw/FileWatcherCWrapper.cpp",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/efsw/src/efsw/FileWatcherCWrapper.cpp",
+  "output": "CMakeFiles/lib_efsw.dir/libs/efsw/src/efsw/FileWatcherCWrapper.cpp.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++  -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/include -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/src  -MD  -falign-functions=16  -g -arch arm64 -o CMakeFiles/lib_efsw.dir/libs/efsw/src/efsw/FileWatcherGeneric.cpp.o -c /Users/xhuet/delivery/eip/jet-live/libs/efsw/src/efsw/FileWatcherGeneric.cpp",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/efsw/src/efsw/FileWatcherGeneric.cpp",
+  "output": "CMakeFiles/lib_efsw.dir/libs/efsw/src/efsw/FileWatcherGeneric.cpp.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++  -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/include -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/src  -MD  -falign-functions=16  -g -arch arm64 -o CMakeFiles/lib_efsw.dir/libs/efsw/src/efsw/FileWatcherImpl.cpp.o -c /Users/xhuet/delivery/eip/jet-live/libs/efsw/src/efsw/FileWatcherImpl.cpp",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/efsw/src/efsw/FileWatcherImpl.cpp",
+  "output": "CMakeFiles/lib_efsw.dir/libs/efsw/src/efsw/FileWatcherImpl.cpp.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++  -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/include -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/src  -MD  -falign-functions=16  -g -arch arm64 -o CMakeFiles/lib_efsw.dir/libs/efsw/src/efsw/Log.cpp.o -c /Users/xhuet/delivery/eip/jet-live/libs/efsw/src/efsw/Log.cpp",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/efsw/src/efsw/Log.cpp",
+  "output": "CMakeFiles/lib_efsw.dir/libs/efsw/src/efsw/Log.cpp.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++  -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/include -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/src  -MD  -falign-functions=16  -g -arch arm64 -o CMakeFiles/lib_efsw.dir/libs/efsw/src/efsw/String.cpp.o -c /Users/xhuet/delivery/eip/jet-live/libs/efsw/src/efsw/String.cpp",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/efsw/src/efsw/String.cpp",
+  "output": "CMakeFiles/lib_efsw.dir/libs/efsw/src/efsw/String.cpp.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++  -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/include -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/src  -MD  -falign-functions=16  -g -arch arm64 -o CMakeFiles/lib_efsw.dir/libs/efsw/src/efsw/System.cpp.o -c /Users/xhuet/delivery/eip/jet-live/libs/efsw/src/efsw/System.cpp",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/efsw/src/efsw/System.cpp",
+  "output": "CMakeFiles/lib_efsw.dir/libs/efsw/src/efsw/System.cpp.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++  -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/include -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/src  -MD  -falign-functions=16  -g -arch arm64 -o CMakeFiles/lib_efsw.dir/libs/efsw/src/efsw/Watcher.cpp.o -c /Users/xhuet/delivery/eip/jet-live/libs/efsw/src/efsw/Watcher.cpp",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/efsw/src/efsw/Watcher.cpp",
+  "output": "CMakeFiles/lib_efsw.dir/libs/efsw/src/efsw/Watcher.cpp.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++  -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/include -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/src  -MD  -falign-functions=16  -g -arch arm64 -o CMakeFiles/lib_efsw.dir/libs/efsw/src/efsw/WatcherGeneric.cpp.o -c /Users/xhuet/delivery/eip/jet-live/libs/efsw/src/efsw/WatcherGeneric.cpp",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/efsw/src/efsw/WatcherGeneric.cpp",
+  "output": "CMakeFiles/lib_efsw.dir/libs/efsw/src/efsw/WatcherGeneric.cpp.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++  -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/include -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/src  -MD  -falign-functions=16  -g -arch arm64 -o CMakeFiles/lib_efsw.dir/libs/efsw/src/efsw/platform/posix/FileSystemImpl.cpp.o -c /Users/xhuet/delivery/eip/jet-live/libs/efsw/src/efsw/platform/posix/FileSystemImpl.cpp",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/efsw/src/efsw/platform/posix/FileSystemImpl.cpp",
+  "output": "CMakeFiles/lib_efsw.dir/libs/efsw/src/efsw/platform/posix/FileSystemImpl.cpp.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++  -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/include -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/src  -MD  -falign-functions=16  -g -arch arm64 -o CMakeFiles/lib_efsw.dir/libs/efsw/src/efsw/platform/posix/SystemImpl.cpp.o -c /Users/xhuet/delivery/eip/jet-live/libs/efsw/src/efsw/platform/posix/SystemImpl.cpp",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/efsw/src/efsw/platform/posix/SystemImpl.cpp",
+  "output": "CMakeFiles/lib_efsw.dir/libs/efsw/src/efsw/platform/posix/SystemImpl.cpp.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++  -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/include -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/src  -MD  -falign-functions=16  -g -arch arm64 -o CMakeFiles/lib_efsw.dir/libs/efsw/src/efsw/FileWatcherFSEvents.cpp.o -c /Users/xhuet/delivery/eip/jet-live/libs/efsw/src/efsw/FileWatcherFSEvents.cpp",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/efsw/src/efsw/FileWatcherFSEvents.cpp",
+  "output": "CMakeFiles/lib_efsw.dir/libs/efsw/src/efsw/FileWatcherFSEvents.cpp.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++  -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/include -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/src  -MD  -falign-functions=16  -g -arch arm64 -o CMakeFiles/lib_efsw.dir/libs/efsw/src/efsw/WatcherFSEvents.cpp.o -c /Users/xhuet/delivery/eip/jet-live/libs/efsw/src/efsw/WatcherFSEvents.cpp",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/efsw/src/efsw/WatcherFSEvents.cpp",
+  "output": "CMakeFiles/lib_efsw.dir/libs/efsw/src/efsw/WatcherFSEvents.cpp.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++  -I/Users/xhuet/delivery/eip/jet-live/libs/tiny-process-library  -MD  -falign-functions=16  -g -std=gnu++17 -arch arm64 -o CMakeFiles/lib_tiny-process-library.dir/libs/tiny-process-library/process.cpp.o -c /Users/xhuet/delivery/eip/jet-live/libs/tiny-process-library/process.cpp",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/tiny-process-library/process.cpp",
+  "output": "CMakeFiles/lib_tiny-process-library.dir/libs/tiny-process-library/process.cpp.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++  -I/Users/xhuet/delivery/eip/jet-live/libs/tiny-process-library  -MD  -falign-functions=16  -g -std=gnu++17 -arch arm64 -o CMakeFiles/lib_tiny-process-library.dir/libs/tiny-process-library/process_unix.cpp.o -c /Users/xhuet/delivery/eip/jet-live/libs/tiny-process-library/process_unix.cpp",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/tiny-process-library/process_unix.cpp",
+  "output": "CMakeFiles/lib_tiny-process-library.dir/libs/tiny-process-library/process_unix.cpp.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++  -I/Users/xhuet/delivery/eip/jet-live/libs/teenypath/include  -MD  -falign-functions=16  -g -std=gnu++17 -arch arm64 -o CMakeFiles/lib_teenypath.dir/libs/teenypath/src/teenypath.cpp.o -c /Users/xhuet/delivery/eip/jet-live/libs/teenypath/src/teenypath.cpp",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/teenypath/src/teenypath.cpp",
+  "output": "CMakeFiles/lib_teenypath.dir/libs/teenypath/src/teenypath.cpp.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/cc  -I/Users/xhuet/delivery/eip/jet-live/libs/xxHash  -MD  -falign-functions=16  -g -arch arm64 -o CMakeFiles/lib_xxhash.dir/libs/xxHash/xxhash.c.o -c /Users/xhuet/delivery/eip/jet-live/libs/xxHash/xxhash.c",
+  "file": "/Users/xhuet/delivery/eip/jet-live/libs/xxHash/xxhash.c",
+  "output": "CMakeFiles/lib_xxhash.dir/libs/xxHash/xxhash.c.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++ -DJET_LIVE_OSX_SYSROOT=\\\"/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk\\\" -I/Users/xhuet/delivery/eip/jet-live/src -I/Users/xhuet/delivery/eip/jet-live/libs/utils -I/Users/xhuet/delivery/eip/jet-live/libs/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/include -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external/logging -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver -I/Users/xhuet/delivery/eip/jet-live/libs/whereami/src -I/Users/xhuet/delivery/eip/jet-live/libs/teenypath/include -I/Users/xhuet/delivery/eip/jet-live/libs/json -I/Users/xhuet/delivery/eip/jet-live/libs/argh/include -I/Users/xhuet/delivery/eip/jet-live/libs/xxHash -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/include -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/src -I/Users/xhuet/delivery/eip/jet-live/libs/tiny-process-library  -MD  -falign-functions=16  -g -std=gnu++17 -arch arm64 -fno-rtti -fno-exceptions -Wall -Wextra -Wpedantic -Wshadow -Wconversion -Wvexing-parse -o CMakeFiles/jet-live.dir/src/jet/live/Utility.cpp.o -c /Users/xhuet/delivery/eip/jet-live/src/jet/live/Utility.cpp",
+  "file": "/Users/xhuet/delivery/eip/jet-live/src/jet/live/Utility.cpp",
+  "output": "CMakeFiles/jet-live.dir/src/jet/live/Utility.cpp.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++ -DJET_LIVE_OSX_SYSROOT=\\\"/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk\\\" -I/Users/xhuet/delivery/eip/jet-live/src -I/Users/xhuet/delivery/eip/jet-live/libs/utils -I/Users/xhuet/delivery/eip/jet-live/libs/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/include -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external/logging -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver -I/Users/xhuet/delivery/eip/jet-live/libs/whereami/src -I/Users/xhuet/delivery/eip/jet-live/libs/teenypath/include -I/Users/xhuet/delivery/eip/jet-live/libs/json -I/Users/xhuet/delivery/eip/jet-live/libs/argh/include -I/Users/xhuet/delivery/eip/jet-live/libs/xxHash -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/include -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/src -I/Users/xhuet/delivery/eip/jet-live/libs/tiny-process-library  -MD  -falign-functions=16  -g -std=gnu++17 -arch arm64 -fno-rtti -fno-exceptions -Wall -Wextra -Wpedantic -Wshadow -Wconversion -Wvexing-parse -o CMakeFiles/jet-live.dir/src/jet/live/DefaultSymbolsFilter.cpp.o -c /Users/xhuet/delivery/eip/jet-live/src/jet/live/DefaultSymbolsFilter.cpp",
+  "file": "/Users/xhuet/delivery/eip/jet-live/src/jet/live/DefaultSymbolsFilter.cpp",
+  "output": "CMakeFiles/jet-live.dir/src/jet/live/DefaultSymbolsFilter.cpp.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++ -DJET_LIVE_OSX_SYSROOT=\\\"/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk\\\" -I/Users/xhuet/delivery/eip/jet-live/src -I/Users/xhuet/delivery/eip/jet-live/libs/utils -I/Users/xhuet/delivery/eip/jet-live/libs/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/include -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external/logging -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver -I/Users/xhuet/delivery/eip/jet-live/libs/whereami/src -I/Users/xhuet/delivery/eip/jet-live/libs/teenypath/include -I/Users/xhuet/delivery/eip/jet-live/libs/json -I/Users/xhuet/delivery/eip/jet-live/libs/argh/include -I/Users/xhuet/delivery/eip/jet-live/libs/xxHash -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/include -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/src -I/Users/xhuet/delivery/eip/jet-live/libs/tiny-process-library  -MD  -falign-functions=16  -g -std=gnu++17 -arch arm64 -fno-rtti -fno-exceptions -Wall -Wextra -Wpedantic -Wshadow -Wconversion -Wvexing-parse -o CMakeFiles/jet-live.dir/src/jet/live/FileWatcher.cpp.o -c /Users/xhuet/delivery/eip/jet-live/src/jet/live/FileWatcher.cpp",
+  "file": "/Users/xhuet/delivery/eip/jet-live/src/jet/live/FileWatcher.cpp",
+  "output": "CMakeFiles/jet-live.dir/src/jet/live/FileWatcher.cpp.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++ -DJET_LIVE_OSX_SYSROOT=\\\"/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk\\\" -I/Users/xhuet/delivery/eip/jet-live/src -I/Users/xhuet/delivery/eip/jet-live/libs/utils -I/Users/xhuet/delivery/eip/jet-live/libs/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/include -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external/logging -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver -I/Users/xhuet/delivery/eip/jet-live/libs/whereami/src -I/Users/xhuet/delivery/eip/jet-live/libs/teenypath/include -I/Users/xhuet/delivery/eip/jet-live/libs/json -I/Users/xhuet/delivery/eip/jet-live/libs/argh/include -I/Users/xhuet/delivery/eip/jet-live/libs/xxHash -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/include -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/src -I/Users/xhuet/delivery/eip/jet-live/libs/tiny-process-library  -MD  -falign-functions=16  -g -std=gnu++17 -arch arm64 -fno-rtti -fno-exceptions -Wall -Wextra -Wpedantic -Wshadow -Wconversion -Wvexing-parse -o CMakeFiles/jet-live.dir/src/jet/live/CompileCommandsCompilationUnitsParser.cpp.o -c /Users/xhuet/delivery/eip/jet-live/src/jet/live/CompileCommandsCompilationUnitsParser.cpp",
+  "file": "/Users/xhuet/delivery/eip/jet-live/src/jet/live/CompileCommandsCompilationUnitsParser.cpp",
+  "output": "CMakeFiles/jet-live.dir/src/jet/live/CompileCommandsCompilationUnitsParser.cpp.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++ -DJET_LIVE_OSX_SYSROOT=\\\"/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk\\\" -I/Users/xhuet/delivery/eip/jet-live/src -I/Users/xhuet/delivery/eip/jet-live/libs/utils -I/Users/xhuet/delivery/eip/jet-live/libs/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/include -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external/logging -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver -I/Users/xhuet/delivery/eip/jet-live/libs/whereami/src -I/Users/xhuet/delivery/eip/jet-live/libs/teenypath/include -I/Users/xhuet/delivery/eip/jet-live/libs/json -I/Users/xhuet/delivery/eip/jet-live/libs/argh/include -I/Users/xhuet/delivery/eip/jet-live/libs/xxHash -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/include -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/src -I/Users/xhuet/delivery/eip/jet-live/libs/tiny-process-library  -MD  -falign-functions=16  -g -std=gnu++17 -arch arm64 -fno-rtti -fno-exceptions -Wall -Wextra -Wpedantic -Wshadow -Wconversion -Wvexing-parse -o CMakeFiles/jet-live.dir/src/jet/live/Compiler.cpp.o -c /Users/xhuet/delivery/eip/jet-live/src/jet/live/Compiler.cpp",
+  "file": "/Users/xhuet/delivery/eip/jet-live/src/jet/live/Compiler.cpp",
+  "output": "CMakeFiles/jet-live.dir/src/jet/live/Compiler.cpp.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++ -DJET_LIVE_OSX_SYSROOT=\\\"/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk\\\" -I/Users/xhuet/delivery/eip/jet-live/src -I/Users/xhuet/delivery/eip/jet-live/libs/utils -I/Users/xhuet/delivery/eip/jet-live/libs/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/include -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external/logging -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver -I/Users/xhuet/delivery/eip/jet-live/libs/whereami/src -I/Users/xhuet/delivery/eip/jet-live/libs/teenypath/include -I/Users/xhuet/delivery/eip/jet-live/libs/json -I/Users/xhuet/delivery/eip/jet-live/libs/argh/include -I/Users/xhuet/delivery/eip/jet-live/libs/xxHash -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/include -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/src -I/Users/xhuet/delivery/eip/jet-live/libs/tiny-process-library  -MD  -falign-functions=16  -g -std=gnu++17 -arch arm64 -fno-rtti -fno-exceptions -Wall -Wextra -Wpedantic -Wshadow -Wconversion -Wvexing-parse -o CMakeFiles/jet-live.dir/src/jet/live/Live.cpp.o -c /Users/xhuet/delivery/eip/jet-live/src/jet/live/Live.cpp",
+  "file": "/Users/xhuet/delivery/eip/jet-live/src/jet/live/Live.cpp",
+  "output": "CMakeFiles/jet-live.dir/src/jet/live/Live.cpp.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++ -DJET_LIVE_OSX_SYSROOT=\\\"/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk\\\" -I/Users/xhuet/delivery/eip/jet-live/src -I/Users/xhuet/delivery/eip/jet-live/libs/utils -I/Users/xhuet/delivery/eip/jet-live/libs/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/include -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external/logging -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver -I/Users/xhuet/delivery/eip/jet-live/libs/whereami/src -I/Users/xhuet/delivery/eip/jet-live/libs/teenypath/include -I/Users/xhuet/delivery/eip/jet-live/libs/json -I/Users/xhuet/delivery/eip/jet-live/libs/argh/include -I/Users/xhuet/delivery/eip/jet-live/libs/xxHash -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/include -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/src -I/Users/xhuet/delivery/eip/jet-live/libs/tiny-process-library  -MD  -falign-functions=16  -g -std=gnu++17 -arch arm64 -fno-rtti -fno-exceptions -Wall -Wextra -Wpedantic -Wshadow -Wconversion -Wvexing-parse -o CMakeFiles/jet-live.dir/src/jet/live/DepfileDependenciesHandler.cpp.o -c /Users/xhuet/delivery/eip/jet-live/src/jet/live/DepfileDependenciesHandler.cpp",
+  "file": "/Users/xhuet/delivery/eip/jet-live/src/jet/live/DepfileDependenciesHandler.cpp",
+  "output": "CMakeFiles/jet-live.dir/src/jet/live/DepfileDependenciesHandler.cpp.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++ -DJET_LIVE_OSX_SYSROOT=\\\"/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk\\\" -I/Users/xhuet/delivery/eip/jet-live/src -I/Users/xhuet/delivery/eip/jet-live/libs/utils -I/Users/xhuet/delivery/eip/jet-live/libs/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/include -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external/logging -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver -I/Users/xhuet/delivery/eip/jet-live/libs/whereami/src -I/Users/xhuet/delivery/eip/jet-live/libs/teenypath/include -I/Users/xhuet/delivery/eip/jet-live/libs/json -I/Users/xhuet/delivery/eip/jet-live/libs/argh/include -I/Users/xhuet/delivery/eip/jet-live/libs/xxHash -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/include -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/src -I/Users/xhuet/delivery/eip/jet-live/libs/tiny-process-library  -MD  -falign-functions=16  -g -std=gnu++17 -arch arm64 -fno-rtti -fno-exceptions -Wall -Wextra -Wpedantic -Wshadow -Wconversion -Wvexing-parse -o CMakeFiles/jet-live.dir/src/jet/live/CodeReloadPipeline.cpp.o -c /Users/xhuet/delivery/eip/jet-live/src/jet/live/CodeReloadPipeline.cpp",
+  "file": "/Users/xhuet/delivery/eip/jet-live/src/jet/live/CodeReloadPipeline.cpp",
+  "output": "CMakeFiles/jet-live.dir/src/jet/live/CodeReloadPipeline.cpp.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++ -DJET_LIVE_OSX_SYSROOT=\\\"/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk\\\" -I/Users/xhuet/delivery/eip/jet-live/src -I/Users/xhuet/delivery/eip/jet-live/libs/utils -I/Users/xhuet/delivery/eip/jet-live/libs/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/include -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external/logging -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver -I/Users/xhuet/delivery/eip/jet-live/libs/whereami/src -I/Users/xhuet/delivery/eip/jet-live/libs/teenypath/include -I/Users/xhuet/delivery/eip/jet-live/libs/json -I/Users/xhuet/delivery/eip/jet-live/libs/argh/include -I/Users/xhuet/delivery/eip/jet-live/libs/xxHash -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/include -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/src -I/Users/xhuet/delivery/eip/jet-live/libs/tiny-process-library  -MD  -falign-functions=16  -g -std=gnu++17 -arch arm64 -fno-rtti -fno-exceptions -Wall -Wextra -Wpedantic -Wshadow -Wconversion -Wvexing-parse -o CMakeFiles/jet-live.dir/src/jet/live/LinkTimeRelocationsStep.cpp.o -c /Users/xhuet/delivery/eip/jet-live/src/jet/live/LinkTimeRelocationsStep.cpp",
+  "file": "/Users/xhuet/delivery/eip/jet-live/src/jet/live/LinkTimeRelocationsStep.cpp",
+  "output": "CMakeFiles/jet-live.dir/src/jet/live/LinkTimeRelocationsStep.cpp.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++ -DJET_LIVE_OSX_SYSROOT=\\\"/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk\\\" -I/Users/xhuet/delivery/eip/jet-live/src -I/Users/xhuet/delivery/eip/jet-live/libs/utils -I/Users/xhuet/delivery/eip/jet-live/libs/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/include -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external/logging -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver -I/Users/xhuet/delivery/eip/jet-live/libs/whereami/src -I/Users/xhuet/delivery/eip/jet-live/libs/teenypath/include -I/Users/xhuet/delivery/eip/jet-live/libs/json -I/Users/xhuet/delivery/eip/jet-live/libs/argh/include -I/Users/xhuet/delivery/eip/jet-live/libs/xxHash -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/include -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/src -I/Users/xhuet/delivery/eip/jet-live/libs/tiny-process-library  -MD  -falign-functions=16  -g -std=gnu++17 -arch arm64 -fno-rtti -fno-exceptions -Wall -Wextra -Wpedantic -Wshadow -Wconversion -Wvexing-parse -o CMakeFiles/jet-live.dir/src/jet/live/FunctionsHookingStep.cpp.o -c /Users/xhuet/delivery/eip/jet-live/src/jet/live/FunctionsHookingStep.cpp",
+  "file": "/Users/xhuet/delivery/eip/jet-live/src/jet/live/FunctionsHookingStep.cpp",
+  "output": "CMakeFiles/jet-live.dir/src/jet/live/FunctionsHookingStep.cpp.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++ -DJET_LIVE_OSX_SYSROOT=\\\"/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk\\\" -I/Users/xhuet/delivery/eip/jet-live/src -I/Users/xhuet/delivery/eip/jet-live/libs/utils -I/Users/xhuet/delivery/eip/jet-live/libs/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/include -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external/logging -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver -I/Users/xhuet/delivery/eip/jet-live/libs/whereami/src -I/Users/xhuet/delivery/eip/jet-live/libs/teenypath/include -I/Users/xhuet/delivery/eip/jet-live/libs/json -I/Users/xhuet/delivery/eip/jet-live/libs/argh/include -I/Users/xhuet/delivery/eip/jet-live/libs/xxHash -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/include -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/src -I/Users/xhuet/delivery/eip/jet-live/libs/tiny-process-library  -MD  -falign-functions=16  -g -std=gnu++17 -arch arm64 -fno-rtti -fno-exceptions -Wall -Wextra -Wpedantic -Wshadow -Wconversion -Wvexing-parse -o CMakeFiles/jet-live.dir/src/jet/live/StaticsCopyStep.cpp.o -c /Users/xhuet/delivery/eip/jet-live/src/jet/live/StaticsCopyStep.cpp",
+  "file": "/Users/xhuet/delivery/eip/jet-live/src/jet/live/StaticsCopyStep.cpp",
+  "output": "CMakeFiles/jet-live.dir/src/jet/live/StaticsCopyStep.cpp.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++ -DJET_LIVE_OSX_SYSROOT=\\\"/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk\\\" -I/Users/xhuet/delivery/eip/jet-live/src -I/Users/xhuet/delivery/eip/jet-live/libs/utils -I/Users/xhuet/delivery/eip/jet-live/libs/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/include -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external/logging -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver -I/Users/xhuet/delivery/eip/jet-live/libs/whereami/src -I/Users/xhuet/delivery/eip/jet-live/libs/teenypath/include -I/Users/xhuet/delivery/eip/jet-live/libs/json -I/Users/xhuet/delivery/eip/jet-live/libs/argh/include -I/Users/xhuet/delivery/eip/jet-live/libs/xxHash -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/include -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/src -I/Users/xhuet/delivery/eip/jet-live/libs/tiny-process-library  -MD  -falign-functions=16  -g -std=gnu++17 -arch arm64 -fno-rtti -fno-exceptions -Wall -Wextra -Wpedantic -Wshadow -Wconversion -Wvexing-parse -o CMakeFiles/jet-live.dir/src/jet/live/SignalReloader.cpp.o -c /Users/xhuet/delivery/eip/jet-live/src/jet/live/SignalReloader.cpp",
+  "file": "/Users/xhuet/delivery/eip/jet-live/src/jet/live/SignalReloader.cpp",
+  "output": "CMakeFiles/jet-live.dir/src/jet/live/SignalReloader.cpp.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++ -DJET_LIVE_OSX_SYSROOT=\\\"/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk\\\" -I/Users/xhuet/delivery/eip/jet-live/src -I/Users/xhuet/delivery/eip/jet-live/libs/utils -I/Users/xhuet/delivery/eip/jet-live/libs/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/include -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external/logging -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver -I/Users/xhuet/delivery/eip/jet-live/libs/whereami/src -I/Users/xhuet/delivery/eip/jet-live/libs/teenypath/include -I/Users/xhuet/delivery/eip/jet-live/libs/json -I/Users/xhuet/delivery/eip/jet-live/libs/argh/include -I/Users/xhuet/delivery/eip/jet-live/libs/xxHash -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/include -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/src -I/Users/xhuet/delivery/eip/jet-live/libs/tiny-process-library  -MD  -falign-functions=16  -g -std=gnu++17 -arch arm64 -fno-rtti -fno-exceptions -Wall -Wextra -Wpedantic -Wshadow -Wconversion -Wvexing-parse -o CMakeFiles/jet-live.dir/src/jet/live/AsyncEventQueue.cpp.o -c /Users/xhuet/delivery/eip/jet-live/src/jet/live/AsyncEventQueue.cpp",
+  "file": "/Users/xhuet/delivery/eip/jet-live/src/jet/live/AsyncEventQueue.cpp",
+  "output": "CMakeFiles/jet-live.dir/src/jet/live/AsyncEventQueue.cpp.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++ -DJET_LIVE_OSX_SYSROOT=\\\"/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk\\\" -DJET_LIVE_CMAKE_BUILD_DIR=\\\"/Users/xhuet/delivery/eip/jet-live/build\\\" -DJET_LIVE_CMAKE_GENERATOR=\"\\\"Unix Makefiles\\\"\" -I/Users/xhuet/delivery/eip/jet-live/src -I/Users/xhuet/delivery/eip/jet-live/libs/utils -I/Users/xhuet/delivery/eip/jet-live/libs/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/include -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external/logging -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver -I/Users/xhuet/delivery/eip/jet-live/libs/whereami/src -I/Users/xhuet/delivery/eip/jet-live/libs/teenypath/include -I/Users/xhuet/delivery/eip/jet-live/libs/json -I/Users/xhuet/delivery/eip/jet-live/libs/argh/include -I/Users/xhuet/delivery/eip/jet-live/libs/xxHash -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/include -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/src -I/Users/xhuet/delivery/eip/jet-live/libs/tiny-process-library  -MD  -falign-functions=16  -g -std=gnu++17 -arch arm64 -fno-rtti -fno-exceptions -Wall -Wextra -Wpedantic -Wshadow -Wconversion -Wvexing-parse -o CMakeFiles/jet-live.dir/src/jet/live/BuildConfig.cpp.o -c /Users/xhuet/delivery/eip/jet-live/src/jet/live/BuildConfig.cpp",
+  "file": "/Users/xhuet/delivery/eip/jet-live/src/jet/live/BuildConfig.cpp",
+  "output": "CMakeFiles/jet-live.dir/src/jet/live/BuildConfig.cpp.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++ -DJET_LIVE_OSX_SYSROOT=\\\"/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk\\\" -I/Users/xhuet/delivery/eip/jet-live/src -I/Users/xhuet/delivery/eip/jet-live/libs/utils -I/Users/xhuet/delivery/eip/jet-live/libs/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/include -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external/logging -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver -I/Users/xhuet/delivery/eip/jet-live/libs/whereami/src -I/Users/xhuet/delivery/eip/jet-live/libs/teenypath/include -I/Users/xhuet/delivery/eip/jet-live/libs/json -I/Users/xhuet/delivery/eip/jet-live/libs/argh/include -I/Users/xhuet/delivery/eip/jet-live/libs/xxHash -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/include -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/src -I/Users/xhuet/delivery/eip/jet-live/libs/tiny-process-library  -MD  -falign-functions=16  -g -std=gnu++17 -arch arm64 -fno-rtti -fno-exceptions -Wall -Wextra -Wpedantic -Wshadow -Wconversion -Wvexing-parse -o CMakeFiles/jet-live.dir/src/jet/live/_macos/MachoProgramInfoLoader.cpp.o -c /Users/xhuet/delivery/eip/jet-live/src/jet/live/_macos/MachoProgramInfoLoader.cpp",
+  "file": "/Users/xhuet/delivery/eip/jet-live/src/jet/live/_macos/MachoProgramInfoLoader.cpp",
+  "output": "CMakeFiles/jet-live.dir/src/jet/live/_macos/MachoProgramInfoLoader.cpp.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build",
+  "command": "/usr/bin/c++ -DJET_LIVE_OSX_SYSROOT=\\\"/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk\\\" -I/Users/xhuet/delivery/eip/jet-live/src -I/Users/xhuet/delivery/eip/jet-live/libs/utils -I/Users/xhuet/delivery/eip/jet-live/libs/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/include -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/dobby -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/external/logging -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/source/Backend/UserMode -I/Users/xhuet/delivery/eip/jet-live/libs/dobby/builtin-plugin/SymbolResolver -I/Users/xhuet/delivery/eip/jet-live/libs/whereami/src -I/Users/xhuet/delivery/eip/jet-live/libs/teenypath/include -I/Users/xhuet/delivery/eip/jet-live/libs/json -I/Users/xhuet/delivery/eip/jet-live/libs/argh/include -I/Users/xhuet/delivery/eip/jet-live/libs/xxHash -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/include -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/src -I/Users/xhuet/delivery/eip/jet-live/libs/tiny-process-library  -MD  -falign-functions=16  -g -std=gnu++17 -arch arm64 -fno-rtti -fno-exceptions -Wall -Wextra -Wpedantic -Wshadow -Wconversion -Wvexing-parse -o CMakeFiles/jet-live.dir/src/jet/live/_macos/Utility.cpp.o -c /Users/xhuet/delivery/eip/jet-live/src/jet/live/_macos/Utility.cpp",
+  "file": "/Users/xhuet/delivery/eip/jet-live/src/jet/live/_macos/Utility.cpp",
+  "output": "CMakeFiles/jet-live.dir/src/jet/live/_macos/Utility.cpp.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build/example",
+  "command": "/usr/bin/c++  -I/Users/xhuet/delivery/eip/jet-live/example/src -I/Users/xhuet/delivery/eip/jet-live/src -I/Users/xhuet/delivery/eip/jet-live/libs/utils -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/include -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/src -I/Users/xhuet/delivery/eip/jet-live/libs/tiny-process-library  -MD  -falign-functions=16  -g -std=gnu++17 -arch arm64 -fno-rtti -fno-exceptions -Wall -Wextra -Wpedantic -Wshadow -Wconversion -Wvexing-parse -o CMakeFiles/example.dir/src/main.cpp.o -c /Users/xhuet/delivery/eip/jet-live/example/src/main.cpp",
+  "file": "/Users/xhuet/delivery/eip/jet-live/example/src/main.cpp",
+  "output": "example/CMakeFiles/example.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build/example",
+  "command": "/usr/bin/c++  -I/Users/xhuet/delivery/eip/jet-live/example/src -I/Users/xhuet/delivery/eip/jet-live/src -I/Users/xhuet/delivery/eip/jet-live/libs/utils -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/include -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/src -I/Users/xhuet/delivery/eip/jet-live/libs/tiny-process-library  -MD  -falign-functions=16  -g -std=gnu++17 -arch arm64 -fno-rtti -fno-exceptions -Wall -Wextra -Wpedantic -Wshadow -Wconversion -Wvexing-parse -o CMakeFiles/example.dir/src/ExampleListener.cpp.o -c /Users/xhuet/delivery/eip/jet-live/example/src/ExampleListener.cpp",
+  "file": "/Users/xhuet/delivery/eip/jet-live/example/src/ExampleListener.cpp",
+  "output": "example/CMakeFiles/example.dir/src/ExampleListener.cpp.o"
+},
+{
+  "directory": "/Users/xhuet/delivery/eip/jet-live/build/example",
+  "command": "/usr/bin/c++  -I/Users/xhuet/delivery/eip/jet-live/example/src -I/Users/xhuet/delivery/eip/jet-live/src -I/Users/xhuet/delivery/eip/jet-live/libs/utils -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/include -I/Users/xhuet/delivery/eip/jet-live/libs/efsw/src -I/Users/xhuet/delivery/eip/jet-live/libs/tiny-process-library  -MD  -falign-functions=16  -g -std=gnu++17 -arch arm64 -fno-rtti -fno-exceptions -Wall -Wextra -Wpedantic -Wshadow -Wconversion -Wvexing-parse -o CMakeFiles/example.dir/src/SimpleCommandInterpreter.cpp.o -c /Users/xhuet/delivery/eip/jet-live/example/src/SimpleCommandInterpreter.cpp",
+  "file": "/Users/xhuet/delivery/eip/jet-live/example/src/SimpleCommandInterpreter.cpp",
+  "output": "example/CMakeFiles/example.dir/src/SimpleCommandInterpreter.cpp.o"
+}
+]

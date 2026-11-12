@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblib_tiny-process-library.a "CMakeFiles/lib_tiny-process-library.dir/libs/tiny-process-library/process.cpp.o" "CMakeFiles/lib_tiny-process-library.dir/libs/tiny-process-library/process_unix.cpp.o"
+/usr/bin/ranlib liblib_tiny-process-library.a

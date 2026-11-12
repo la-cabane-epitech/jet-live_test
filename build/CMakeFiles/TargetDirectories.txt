@@ -1,0 +1,12 @@
+/Users/xhuet/delivery/eip/jet-live/build/CMakeFiles/lib_dobby.dir
+/Users/xhuet/delivery/eip/jet-live/build/CMakeFiles/lib_whereami.dir
+/Users/xhuet/delivery/eip/jet-live/build/CMakeFiles/lib_efsw.dir
+/Users/xhuet/delivery/eip/jet-live/build/CMakeFiles/lib_tiny-process-library.dir
+/Users/xhuet/delivery/eip/jet-live/build/CMakeFiles/lib_teenypath.dir
+/Users/xhuet/delivery/eip/jet-live/build/CMakeFiles/lib_xxhash.dir
+/Users/xhuet/delivery/eip/jet-live/build/CMakeFiles/jet-live.dir
+/Users/xhuet/delivery/eip/jet-live/build/CMakeFiles/edit_cache.dir
+/Users/xhuet/delivery/eip/jet-live/build/CMakeFiles/rebuild_cache.dir
+/Users/xhuet/delivery/eip/jet-live/build/example/CMakeFiles/example.dir
+/Users/xhuet/delivery/eip/jet-live/build/example/CMakeFiles/edit_cache.dir
+/Users/xhuet/delivery/eip/jet-live/build/example/CMakeFiles/rebuild_cache.dir

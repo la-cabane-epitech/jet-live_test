@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/jet-live.dir/src/jet/live/AsyncEventQueue.cpp.o"
+  "CMakeFiles/jet-live.dir/src/jet/live/AsyncEventQueue.cpp.o.d"
+  "CMakeFiles/jet-live.dir/src/jet/live/BuildConfig.cpp.o"
+  "CMakeFiles/jet-live.dir/src/jet/live/BuildConfig.cpp.o.d"
+  "CMakeFiles/jet-live.dir/src/jet/live/CodeReloadPipeline.cpp.o"
+  "CMakeFiles/jet-live.dir/src/jet/live/CodeReloadPipeline.cpp.o.d"
+  "CMakeFiles/jet-live.dir/src/jet/live/CompileCommandsCompilationUnitsParser.cpp.o"
+  "CMakeFiles/jet-live.dir/src/jet/live/CompileCommandsCompilationUnitsParser.cpp.o.d"
+  "CMakeFiles/jet-live.dir/src/jet/live/Compiler.cpp.o"
+  "CMakeFiles/jet-live.dir/src/jet/live/Compiler.cpp.o.d"
+  "CMakeFiles/jet-live.dir/src/jet/live/DefaultSymbolsFilter.cpp.o"
+  "CMakeFiles/jet-live.dir/src/jet/live/DefaultSymbolsFilter.cpp.o.d"
+  "CMakeFiles/jet-live.dir/src/jet/live/DepfileDependenciesHandler.cpp.o"
+  "CMakeFiles/jet-live.dir/src/jet/live/DepfileDependenciesHandler.cpp.o.d"
+  "CMakeFiles/jet-live.dir/src/jet/live/FileWatcher.cpp.o"
+  "CMakeFiles/jet-live.dir/src/jet/live/FileWatcher.cpp.o.d"
+  "CMakeFiles/jet-live.dir/src/jet/live/FunctionsHookingStep.cpp.o"
+  "CMakeFiles/jet-live.dir/src/jet/live/FunctionsHookingStep.cpp.o.d"
+  "CMakeFiles/jet-live.dir/src/jet/live/LinkTimeRelocationsStep.cpp.o"
+  "CMakeFiles/jet-live.dir/src/jet/live/LinkTimeRelocationsStep.cpp.o.d"
+  "CMakeFiles/jet-live.dir/src/jet/live/Live.cpp.o"
+  "CMakeFiles/jet-live.dir/src/jet/live/Live.cpp.o.d"
+  "CMakeFiles/jet-live.dir/src/jet/live/SignalReloader.cpp.o"
+  "CMakeFiles/jet-live.dir/src/jet/live/SignalReloader.cpp.o.d"
+  "CMakeFiles/jet-live.dir/src/jet/live/StaticsCopyStep.cpp.o"
+  "CMakeFiles/jet-live.dir/src/jet/live/StaticsCopyStep.cpp.o.d"
+  "CMakeFiles/jet-live.dir/src/jet/live/Utility.cpp.o"
+  "CMakeFiles/jet-live.dir/src/jet/live/Utility.cpp.o.d"
+  "CMakeFiles/jet-live.dir/src/jet/live/_macos/MachoProgramInfoLoader.cpp.o"
+  "CMakeFiles/jet-live.dir/src/jet/live/_macos/MachoProgramInfoLoader.cpp.o.d"
+  "CMakeFiles/jet-live.dir/src/jet/live/_macos/Utility.cpp.o"
+  "CMakeFiles/jet-live.dir/src/jet/live/_macos/Utility.cpp.o.d"
+  "libjet-live.a"
+  "libjet-live.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/jet-live.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

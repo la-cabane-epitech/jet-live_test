@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblib_teenypath.a CMakeFiles/lib_teenypath.dir/libs/teenypath/src/teenypath.cpp.o
+/usr/bin/ranlib liblib_teenypath.a
